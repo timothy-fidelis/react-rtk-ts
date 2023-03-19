@@ -2,7 +2,7 @@ import classNames from 'classnames';
 
 type SkeletonProps = {
   times: number;
-  className: string;
+  className?: string;
 };
 
 const Skeleton = ({ times, className }: SkeletonProps) => {

@@ -6,13 +6,19 @@
     },
     {
       "name": "Elsie Price",
-      "id": 3
+      "id": 2
     },
     {
       "name": "Harold Strosin",
-      "id": 4
+      "id": 3
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 1,
+      "title": "Hiking Trip",
+      "userId": 1
+    }
+  ],
   "photos": []
 }

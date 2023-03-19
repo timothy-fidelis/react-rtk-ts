@@ -1,5 +1,4 @@
 import { createSlice, PayloadAction, SerializedError } from '@reduxjs/toolkit';
-
 import { addUser, fetchUsers, removeUser } from '../thunks/usersThunk';
 
 export type UsersState = {

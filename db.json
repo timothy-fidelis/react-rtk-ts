@@ -18,6 +18,76 @@
       "id": 1,
       "title": "Hiking Trip",
       "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Incredible Concrete Fish",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Bespoke Metal Tuna",
+      "id": 3
+    },
+    {
+      "userId": 2,
+      "title": "Handmade Steel Chicken",
+      "id": 4
+    },
+    {
+      "userId": 2,
+      "title": "Gorgeous Metal Fish",
+      "id": 5
+    },
+    {
+      "userId": 3,
+      "title": "Modern Metal Towels",
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Concrete Salad",
+      "id": 7
+    },
+    {
+      "userId": 2,
+      "title": "Handcrafted Plastic Mouse",
+      "id": 8
+    },
+    {
+      "userId": 3,
+      "title": "Luxurious Concrete Car",
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "title": "Sleek Granite Pants",
+      "id": 10
+    },
+    {
+      "userId": 2,
+      "title": "Practical Steel Chips",
+      "id": 11
+    },
+    {
+      "userId": 3,
+      "title": "Handcrafted Bronze Fish",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Soft Gloves",
+      "id": 13
+    },
+    {
+      "userId": 2,
+      "title": "Awesome Concrete Sausages",
+      "id": 14
+    },
+    {
+      "userId": 3,
+      "title": "Rustic Rubber Chips",
+      "id": 15
     }
   ],
   "photos": []
